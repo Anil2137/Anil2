@@ -1,0 +1,51 @@
+body {
+ background-color: skyBlue;
+ }
+ img {
+ border: solid 3px;
+ border-radius: 10px;
+ padding: 4px;
+ width: 90px;
+ height: 90px;
+  display: flex;
+  float: right;
+ }
+ h2 {
+  border-radius: 10px;
+ background-color: skyBlue;
+ border: solid 3px;
+ padding: 10px;
+ text-align: center;
+ font-family: cursive;
+ font-size: 30px;
+ display: flex;
+ }
+ p1 {
+  border-radius: 10px;
+ background-color: skyBlue;
+ border: solid 3px;
+ padding: 10px;
+ text-align: center;
+ font-family: cursive;
+ font-size: 25px;
+ display: flex;
+ }
+ p2 {
+ border-radius: 10px;
+ background-color: skyBlue;
+ border: solid 3px;
+ padding: 10px;
+ text-align: center;
+ font-family: cursive;
+ font-size: 25px;
+ display: flex;
+ }
+ .Creator {
+ font-size: 30px;
+ }
+ button {
+border-radius: 20px;
+text-align: center;
+background-color: green;
+font-size: 20px;
+}
